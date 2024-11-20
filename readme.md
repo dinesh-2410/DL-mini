@@ -99,4 +99,4 @@ The results include bounding boxes drawn around detected objects in each image, 
    * Quantas Car vs Plane Image: Detected "car" and "airplane".
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
