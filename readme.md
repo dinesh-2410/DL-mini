@@ -21,5 +21,5 @@ To set up the environment for this project, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
-   cd yourrepository
+   git clone https://github.com/dinesh-2410/DL-mini.git
+   cd DL-mini
