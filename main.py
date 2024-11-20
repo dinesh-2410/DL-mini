@@ -1,12 +1,12 @@
-! wget https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-CV0101EN-Coursera/images%20/images_part_5/DLguys.jpeg
-! wget https://www.ajot.com/images/uploads/article/quantas-car-v-plane-TAKE-OFF.jpg
-! wget https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-CV0101EN-Coursera/images%20/images_part_5/istockphoto-187786732-612x612.jpeg
-! wget https://cdn.webrazzi.com/uploads/2015/03/andrew-ng1.jpg
-! pip install -q condacolab
+# ! wget https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-CV0101EN-Coursera/images%20/images_part_5/DLguys.jpeg
+# ! wget https://www.ajot.com/images/uploads/article/quantas-car-v-plane-TAKE-OFF.jpg
+# ! wget https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-CV0101EN-Coursera/images%20/images_part_5/istockphoto-187786732-612x612.jpeg
+# ! wget https://cdn.webrazzi.com/uploads/2015/03/andrew-ng1.jpg
+# ! pip install -q condacolab
 import condacolab
 condacolab.install()
 
-! conda install pytorch=1.1.0 torchvision -c pytorch -y
+# ! conda install pytorch=1.1.0 torchvision -c pytorch -y
 
 import torchvision
 from torchvision import  transforms
